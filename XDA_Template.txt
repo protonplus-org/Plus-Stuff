@@ -1,0 +1,52 @@
+[CENTER]
+[IMG]https://raw.githubusercontent.com/protonplus-org/Plus-Stuff/main/assets/Header.png[/IMG]
+
+[SIZE="4"]Functionally Minimalistic! [B][I]protonplus[/I][/B] is a Custom After Market OS based on AOSP with enhancements tweaks from ProtonAOSP and some nifty little Quality of Life features to enhance your daily driving experience.[/SIZE]
+
+[IMG]https://raw.githubusercontent.com/protonplus-org/Plus-Stuff/main/assets/Features.png[/IMG]
+
+[SIZE="4"][B]Full Feature List [I][URL="https://github.com/protonplus-org/ota/blob/tm/source_changelog/source_changelog.txt"][COLOR=rgb(255, 94, 94)]Click Here![/COLOR][/URL][/B][/I][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/protonplus-org/Plus-Stuff/main/assets/Flashing.png[/IMG]
+
+[SIZE="6"][B][I]First Time Install/Clean Flash[/I][/B][/SIZE]
+[SIZE="4"][B][COLOR=rgb(255, 94, 94)]Warning:[/COLOR] Take Full Backup of your Internal Storage[/B]
+- Reboot to Fastboot
+- Flash boot and vendorboot image
+- Reboot to Recovery Mode
+- Go to Factory Reset > Format data/factory reset > Factory Reset [B][This will Format the Internal Storage][/B]
+- Now go to Apply update > Apply from ADB > adb sideload romfile.zip 
+- Reboot to System[/SIZE]
+
+[SIZE="6"][B][I]Update/Dirty Flash[/I][/B][/SIZE]
+[SIZE="4"]Use Our [I][B][COLOR=rgb(255, 94, 94)]Inbuilt Updater[/COLOR][/I][/B]
+OR
+- Reboot to Recovery Mode
+- Go to Apply update > Apply from ADB > adb sideload romfile.zip
+- Reboot to System [/SIZE]
+
+[URL="https://github.com/protonplus-org/ota/releases/tag/13.04-Stable-alioth-20230109"][IMG width="175px"]https://raw.githubusercontent.com/protonplus-org/Plus-Stuff/main/assets/DownloadButton.png[/IMG][/URL]    [URL="https://t.me/ScreenshotsDump/307"][IMG  width="175px"]https://raw.githubusercontent.com/protonplus-org/Plus-Stuff/main/assets/ScreenshotsButton.png[/IMG][/URL]    [URL='https://t.me/protonpluschat'][IMG width="175px"]https://raw.githubusercontent.com/protonplus-org/Plus-Stuff/main/assets/ChatButton.png[/IMG][/URL]    [URL='https://t.me/protonplusupdates/71'][IMG width="175px"]https://raw.githubusercontent.com/protonplus-org/Plus-Stuff/main/assets/DonateButton.png[/IMG][/URL]
+
+[IMG]https://raw.githubusercontent.com/protonplus-org/Plus-Stuff/main/assets/Issues.png[/IMG]
+
+[SIZE="4"][B]You Tell Me.[/B][/SIZE]
+[SIZE="4"]* If you face any Bug, Take a logcat and Send it to our [B][I][URL="https://t.me/protonpluschat"][COLOR=rgb(255, 94, 94)]Support Chat![/COLOR][/URL][/B][/I][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/protonplus-org/Plus-Stuff/main/assets/Info.png[/IMG]
+
+[SIZE="4"][B]ProtonPlus: [I]Tiramisu[/I][/B]
+[B]Device:[/B] [I]Codename of your device[/I]
+[B]Maintainer:[/B] [I]Your-Name[/I]
+[B]Build Type:[/B] [I]Unofficial/Official[/I]
+[B]Status:[/B] [I]Stable[/I]
+
+[B]ROM OS Version:[/B] [I]13[/I]
+[B]ROM Kernel Version:[/B] [I]Linux X.X[/I]
+[B]ROM Firmware Required:[/B] [I]Must be on Latest Firmware[/I]
+[B]Based On:[/B] [I]AOSP[/I]
+
+[B]ROM Source:[/B] [I][URL="https://github.com/protonplus-org"][COLOR=rgb(255, 94, 94)]Here![/COLOR][/URL][/I]
+[B]Kernel Source:[/B] [I][URL="Kramel Lenk Here"][COLOR=rgb(255, 94, 94)]Here![/COLOR][/URL][/I]
+
+[B]Release Date:[/B] [I]9-01-2023[/I]
+[B]Updated On:[/B] [I]9-01-2023[/I][/SIZE][/CENTER]
